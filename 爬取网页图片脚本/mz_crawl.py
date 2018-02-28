@@ -6,7 +6,7 @@ import requests, re, threading, time
 #可修改配置
 root_url = 'http://www.mmjpg.com/home/5'
 thread_num = 10
-base_dir = 'd:/大屌专用/'
+base_dir = 'd:/'
 
 
 
